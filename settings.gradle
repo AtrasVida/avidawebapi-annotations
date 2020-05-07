@@ -1,0 +1,3 @@
+rootProject.name='easy-retrofit2'
+include ':app'
+include ':avidawebapi-annotations'
